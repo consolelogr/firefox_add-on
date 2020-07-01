@@ -1,0 +1,38 @@
+
+{
+
+    "manifest_version": 2,
+    "name": "Firefoxify",
+    "version": "0.2",
+    "description": "Add-on that tries to do something really cool",
+    "homepage_url": "https://consolelogger.com",
+
+    "icons": {
+      "48": "icons/gear.png"
+    },
+  
+    "permissions": [
+      "activeTab"
+    ],
+
+    "browser_action": {
+      "default_icon": "icons/gear32.png",
+      "default_title": "Firefoxify",
+      "default_popup": "popup/choosenumber.html"
+    }
+
+   
+  
+  
+
+}
+
+
+  
+
+  
+  
+    
+   
+  
+  
